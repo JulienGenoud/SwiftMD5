@@ -1,2 +1,2 @@
 # SwiftMD5
-little snippet
+little snippet in swift
